@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Giovane Grandi
 
-- 🌱 Estudando HTML/CSS/JavaScript
+- 🌱 Estudando HTML/CSS/JavaScript/Java
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
