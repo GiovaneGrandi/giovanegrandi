@@ -1,8 +1,5 @@
 ## Olá! Eu sou o Giovane Grandi
 
-- 🌱 Estudando HTML/CSS/JavaScript/Java
-- 😄 Pronomes: Ele/Dele
-
 <div align="center">
   <a href="https://github.com/GiovaneGrandi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GiovaneGrandi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
